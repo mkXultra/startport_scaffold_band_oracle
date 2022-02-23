@@ -1,0 +1,11 @@
+syntax = "proto3";
+package mkXultra.startportscaffoldbandoracle.startportscaffoldbandoracle;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/mkXultra/startport_scaffold_band_oracle/x/startportscaffoldbandoracle/types";
+
+// GenesisState defines the startportscaffoldbandoracle module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
